@@ -1,3 +1,24 @@
-# 律師事務所網站
-- 使用vue2並使用php將資料儲存在mysql管理。
-- 尚未優化代碼及debug
+# website1
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
