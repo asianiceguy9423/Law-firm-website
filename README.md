@@ -11,11 +11,9 @@ http://laucho.atwebpages.com/
 <hr>
 ### 網站操作
 - 前台架構圖
-
 ![01](https://github.com/user-attachments/assets/227308f3-f69f-4dc3-b976-eb6609ae08ab)
 
 - 後台架構圖
-- 
 ![02](https://github.com/user-attachments/assets/adcec532-3892-4894-9a31-d6016e2eb55c)
 
 - 後台上有文字須更正。
