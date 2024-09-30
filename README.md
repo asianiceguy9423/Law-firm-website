@@ -9,14 +9,11 @@ http://laucho.atwebpages.com/
 - 前台所有圖片與文字內容皆由資料庫動態抓取，實現內容的靈活管理。
 -  實施了多層次的安全性防護，包含XSS攻擊防護和SQL注入防護，保障資料安全。
 <hr>
+
 ### 網站操作
 - 前台架構圖
-
 ![01](https://github.com/user-attachments/assets/227308f3-f69f-4dc3-b976-eb6609ae08ab)
-
-- 後台架構圖
-  
+- 後台架構圖  
 ![02](https://github.com/user-attachments/assets/adcec532-3892-4894-9a31-d6016e2eb55c)
-
 - 後台上有文字須更正。
 - 2024/09/30優化後端代碼，防止xss攻擊
