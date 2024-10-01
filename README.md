@@ -26,12 +26,11 @@ http://laucho.atwebpages.com/
 ![01](https://github.com/user-attachments/assets/227308f3-f69f-4dc3-b976-eb6609ae08ab)
 - 後台架構圖  
 ![02](https://github.com/user-attachments/assets/adcec532-3892-4894-9a31-d6016e2eb55c)
-- 後台上有文字須更正。
 ![navbar](https://github.com/user-attachments/assets/58991ddf-26a0-4f7d-8461-46c2bdb07486)
 ![home1](https://github.com/user-attachments/assets/3a542d15-4866-488c-9717-72278f862b6c)
 ![home2](https://github.com/user-attachments/assets/e1681a46-c46c-422c-a4e6-b4f02fc4a7de)
 ![home3](https://github.com/user-attachments/assets/0452bff5-0540-4f07-9013-781332e21a39)
 ![home5](https://github.com/user-attachments/assets/260cecbe-c096-49c8-b7d1-1ae015032db7)
 
-- 
+- 20241002後台文字更正。
 - 2024/09/30優化後端代碼，防止xss攻擊
