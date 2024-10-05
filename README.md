@@ -56,7 +56,3 @@ http://laucho.atwebpages.com/
 ![更換密碼](https://github.com/user-attachments/assets/61dca9c0-5ba4-4d18-85c6-d8bb84a822b8)
 - 後台響應式設計
 ![後臺響應式](https://github.com/user-attachments/assets/569f116a-8ec9-4408-891b-876e105ada28)
-
-
-- 2024/09/30優化後端代碼，防止xss攻擊
-- 2024/10/02後台文字更正。
