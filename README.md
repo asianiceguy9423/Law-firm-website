@@ -25,16 +25,34 @@ http://laucho.atwebpages.com/
 - 前台架構圖
 ![01](https://github.com/user-attachments/assets/227308f3-f69f-4dc3-b976-eb6609ae08ab)
 - navbar
-![navbar](https://github.com/user-attachments/assets/58991ddf-26a0-4f7d-8461-46c2bdb07486)
+![navbarshow](https://github.com/user-attachments/assets/b2e1f9d6-ce01-4c36-b75c-784755ec64fe)
 - 至頂按鈕
 ![home5](https://github.com/user-attachments/assets/260cecbe-c096-49c8-b7d1-1ae015032db7)
 - 首頁操作
 ![home1](https://github.com/user-attachments/assets/3a542d15-4866-488c-9717-72278f862b6c)
 ![home2](https://github.com/user-attachments/assets/e1681a46-c46c-422c-a4e6-b4f02fc4a7de)
 ![home3](https://github.com/user-attachments/assets/0452bff5-0540-4f07-9013-781332e21a39)
+- 前台響應式設計
+![前臺響應式](https://github.com/user-attachments/assets/90252ce9-aa6b-4586-8e67-562b392444eb)
+![前臺響應式_navbar](https://github.com/user-attachments/assets/98944d17-53f2-4d1e-b2eb-86e8dda1c8b6)
 
 - 後台架構圖  
 ![02](https://github.com/user-attachments/assets/adcec532-3892-4894-9a31-d6016e2eb55c)
+- 後台燈入
+![登入畫面](https://github.com/user-attachments/assets/3f7e4c55-907a-4619-a01f-48cff8d8e818)
+- 操作新增
+![人員新增](https://github.com/user-attachments/assets/111df59a-b3dd-49b1-a359-b2699e844d94)
+- 操作編輯
+![人員編輯](https://github.com/user-attachments/assets/22eae008-9b8f-49f2-9185-f7d00b240ac9)
+- 操作刪除
+![人員刪除](https://github.com/user-attachments/assets/dd976688-140b-446e-a95a-11fedb43cfc2)
+- 操作變更前台頁尾資訊
+![footer演示](https://github.com/user-attachments/assets/24d03eb4-f239-448c-b483-115c91ff36c9)
+- 更換帳號及密碼
+![更換帳號](https://github.com/user-attachments/assets/9b0c4e48-5151-4121-a88a-616bfb39f1ca)
+![更換密碼](https://github.com/user-attachments/assets/61dca9c0-5ba4-4d18-85c6-d8bb84a822b8)
+- 後台響應式設計
+![後臺響應式](https://github.com/user-attachments/assets/569f116a-8ec9-4408-891b-876e105ada28)
 
 
 - 2024/09/30優化後端代碼，防止xss攻擊
