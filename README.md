@@ -4,7 +4,7 @@
 <br>
 後台:http://laucho.atwebpages.com/LoginPage
 <br>
-(帳:zzz密:zzz)
+(帳號:zzz密碼:zzz)
 <br>
 這是我開發的法律事務所網站專案，作為我的前端開發作品集之一，展示我在 Vue.js 及相關技術上的實作能力。網站設計專注於專業性、用戶友好性及響應式設計，適合不同裝置上的流暢體驗。
 <hr>
