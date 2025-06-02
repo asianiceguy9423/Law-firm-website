@@ -1,8 +1,8 @@
 # 諮詢事務所網站
 
-前台:http://laucho.atwebpages.com/
+前台:[http://laucho.atwebpages.com/](http://simulation4516423.medianewsonline.com/)
 <br>
-後台:http://laucho.atwebpages.com/LoginPage
+後台:[http://laucho.atwebpages.com/LoginPage](http://simulation4516423.medianewsonline.com/Login)
 <br>
 (帳號:zzz密碼:zzz)
 <br>
