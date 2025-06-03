@@ -30,7 +30,7 @@
 
 ### 網站操作
 - 前台架構圖
-![01](https://github.com/user-attachments/assets/227308f3-f69f-4dc3-b976-eb6609ae08ab)
+![工作區域 1](https://github.com/user-attachments/assets/6a8b5fa1-f9c1-45f6-8e36-04a4ee78799a)
 - navbar
 ![navbarshow](https://github.com/user-attachments/assets/b2e1f9d6-ce01-4c36-b75c-784755ec64fe)
 - 至頂按鈕
@@ -44,7 +44,7 @@
 ![前臺響應式_navbar](https://github.com/user-attachments/assets/98944d17-53f2-4d1e-b2eb-86e8dda1c8b6)
 
 - 後台架構圖  
-![02](https://github.com/user-attachments/assets/adcec532-3892-4894-9a31-d6016e2eb55c)
+![工作區域 1 複本](https://github.com/user-attachments/assets/3b25fdb3-c540-4462-8209-14ff53fcbbb9)
 - 後台燈入
 ![登入畫面](https://github.com/user-attachments/assets/3f7e4c55-907a-4619-a01f-48cff8d8e818)
 - 操作新增
