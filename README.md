@@ -13,8 +13,8 @@
 **前端開發**
 <BR>
    * Vue3
-      * 採用 Vue3 作為核心框架，使用 Composition API 撰寫邏輯結構。
-      * 透過 Vuex 管理全站狀態，統一數據來源。
+      ⌞ 採用 Vue3 作為核心框架，使用 Composition API 撰寫邏輯結構。
+      ⌞ 透過 Vuex 管理全站狀態，統一數據來源。
    * SCSS
       * 使用 SCSS 強化樣式結構，提升樣式可維護性與模組彈性。
    * Axios
