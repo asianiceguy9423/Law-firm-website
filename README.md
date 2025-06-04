@@ -11,6 +11,11 @@
 
 ### 使用技術
 <BR>
+   * Vue2 / Vue3
+      * 熟悉 Option API 與 Composition API 撰寫模式
+      * 使用 Vuex 管理全站狀態
+      * 掌握 Vue Router 處理前端路由
+      * 能獨立構建 SPA（單頁應用），實現前後端分離與效能優化
    * 前端框架
       * 採用 Vue 3 作為核心框架，搭配 Composition API 編寫邏輯結構
       * 透過 Vuex 實現全站狀態管理
