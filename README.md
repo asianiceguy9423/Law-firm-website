@@ -34,31 +34,32 @@
 - 前台架構圖
 ![工作區域 1](https://github.com/user-attachments/assets/6a8b5fa1-f9c1-45f6-8e36-04a4ee78799a)
 - navbar
-![navbarshow](https://github.com/user-attachments/assets/b2e1f9d6-ce01-4c36-b75c-784755ec64fe)
+![navbar ](https://github.com/user-attachments/assets/ce232cba-eb31-43a5-b812-ea44aae2698b)
 - 至頂按鈕
-![home5](https://github.com/user-attachments/assets/260cecbe-c096-49c8-b7d1-1ae015032db7)
+![至頂按鈕](https://github.com/user-attachments/assets/3da2b942-9874-4778-b9c0-f2de30fadfe2)
 - 首頁操作
-![home1](https://github.com/user-attachments/assets/3a542d15-4866-488c-9717-72278f862b6c)
-![home2](https://github.com/user-attachments/assets/e1681a46-c46c-422c-a4e6-b4f02fc4a7de)
-![home3](https://github.com/user-attachments/assets/0452bff5-0540-4f07-9013-781332e21a39)
+![首頁操作_01](https://github.com/user-attachments/assets/b151bb64-10be-4d61-a7e5-e0a46bb524f2)
+![首頁操作_02](https://github.com/user-attachments/assets/9c54e1a3-d33a-4190-addc-75fca7289eb4)
+![首頁操作_03](https://github.com/user-attachments/assets/87a34fc3-953a-41ed-b09d-c50853802986)
 - 前台響應式設計
-![前臺響應式](https://github.com/user-attachments/assets/90252ce9-aa6b-4586-8e67-562b392444eb)
-![前臺響應式_navbar](https://github.com/user-attachments/assets/98944d17-53f2-4d1e-b2eb-86e8dda1c8b6)
+![前台響應式設計_01](https://github.com/user-attachments/assets/bb608d31-0671-4992-824b-db76d91b3c7a)
+![前台響應式設計_02](https://github.com/user-attachments/assets/b973baa1-fa1b-4069-978c-1a0a8d6d9f88)
 
 - 後台架構圖  
 ![工作區域 1 複本](https://github.com/user-attachments/assets/3b25fdb3-c540-4462-8209-14ff53fcbbb9)
 - 後台燈入
-![登入畫面](https://github.com/user-attachments/assets/3f7e4c55-907a-4619-a01f-48cff8d8e818)
+![後台燈入](https://github.com/user-attachments/assets/d4045718-4433-4dd9-a652-189e1113882b)
 - 操作新增
-![人員新增](https://github.com/user-attachments/assets/111df59a-b3dd-49b1-a359-b2699e844d94)
+![操作新增_01](https://github.com/user-attachments/assets/477cec28-9350-41b9-a9af-051147393d07)
 - 操作編輯
-![人員編輯](https://github.com/user-attachments/assets/22eae008-9b8f-49f2-9185-f7d00b240ac9)
+![操作編輯_01](https://github.com/user-attachments/assets/db9898b4-885c-4c01-bf13-bd4dc8f3b9e6)
+![操作編輯_02](https://github.com/user-attachments/assets/13e49015-026b-4cd0-a0b8-515e3efbc1a4)
+![操作編輯_03](https://github.com/user-attachments/assets/f8063f23-f59b-4edc-a0a5-9021429d9cad)
 - 操作刪除
-![人員刪除](https://github.com/user-attachments/assets/dd976688-140b-446e-a95a-11fedb43cfc2)
-- 操作變更前台頁尾資訊
-![footer演示](https://github.com/user-attachments/assets/24d03eb4-f239-448c-b483-115c91ff36c9)
-- 更換帳號及密碼
-![更換帳號](https://github.com/user-attachments/assets/9b0c4e48-5151-4121-a88a-616bfb39f1ca)
-![更換密碼](https://github.com/user-attachments/assets/61dca9c0-5ba4-4d18-85c6-d8bb84a822b8)
+![操作刪除_01](https://github.com/user-attachments/assets/950adcf0-8dcc-474f-a544-eb7cdea7b2c4)
+- 變更頁尾資訊
+![變更頁尾資訊_01](https://github.com/user-attachments/assets/29469e5a-e098-479a-a8fb-0ab1dd7a32d3)
+- 更換密碼
+![更換密碼](https://github.com/user-attachments/assets/5e0a1206-a045-4478-9040-588ed4e099f5)
 - 後台響應式設計
-![後臺響應式](https://github.com/user-attachments/assets/569f116a-8ec9-4408-891b-876e105ada28)
+![後台響應式設計](https://github.com/user-attachments/assets/24bac9e0-d48e-4f7c-98a1-fa9ffaa57b66)
